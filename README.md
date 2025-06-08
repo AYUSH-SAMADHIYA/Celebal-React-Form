@@ -36,7 +36,7 @@ A beginner-friendly React application that implements a form with field validati
 
 ### 📋 Form Page
 
-![Form Screenshot](Form_page-1.png)
+![Form Screenshot](Celebal-React-Form/Screenshots/Form_page-1.png)
 ![Form Screenshot](Form_page-2.png)
 
 ### ✅ Success Page
