@@ -75,7 +75,7 @@ react-form/
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/react-form.git
+git clone https://github.com/AYUSH-SAMADHIYA/Celebal-React-Form.git
 cd react-form
 npm start
 
