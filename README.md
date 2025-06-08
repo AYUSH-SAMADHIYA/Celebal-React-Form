@@ -37,11 +37,11 @@ A beginner-friendly React application that implements a form with field validati
 ### 📋 Form Page
 
 ![Form Screenshot](./Screenshots/Form_page-1.png)
-![Form Screenshot](Form_page-2.png)
+![Form Screenshot](./Screenshots/Form_page-2.png)
 
 ### ✅ Success Page
 
-![Success Screenshot](Success_page.png)
+![Success Screenshot](./Screenshots/Success_page.png)
 
 ---
 
